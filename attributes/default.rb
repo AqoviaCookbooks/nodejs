@@ -27,6 +27,7 @@ else
 end
 
 default['nodejs']['version'] = '10.15.3'
+default['nodejs']['use_version'] = true 
 
 default['nodejs']['prefix_url']['node'] = 'https://nodejs.org/dist/'
 
