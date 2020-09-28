@@ -26,8 +26,8 @@ else
   default['nodejs']['install_method'] = 'source'
 end
 
-default['nodejs']['version'] = '10.15.3'
-default['nodejs']['use_version'] = true 
+default['nodejs']['version'] = '10.22.1'
+default['nodejs']['use_version'] = true
 
 default['nodejs']['prefix_url']['node'] = 'https://nodejs.org/dist/'
 
